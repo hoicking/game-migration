@@ -1,0 +1,4 @@
+"id";"name";"alias";"max";"min";"unit";"style";"probability";"position";"description"
+1;"传说之鱼";"fish of legend";25;20;1;1;1;"haimen";"存在于传说中的鱼 据说它永远不会被抓到"
+2;"鲫鱼";"Carassius auratus";8;6;0;2;20;"china";"最常见的淡水鱼类之一，生活在青藏高原地域以外的各大水系。"
+3;"冰川鱼";"cold fish";30;25;1;3;2;"china";"生活在冰川中的鱼，非常凶猛"
